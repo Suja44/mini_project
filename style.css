@@ -1,0 +1,214 @@
+html{
+    font-size: 15px;
+}
+
+#title{
+    background-image: url(images/luke-van-zyl-koH7IVuwRLw-unsplash.jpg);
+    background-size: cover;
+    opacity: 1;
+    height:90vh;
+    background-position: 0% 10%;
+    
+}
+body,h4{
+    margin:0;
+    padding:0 ;
+    text-align: center;
+    font-family: 'Prompt',sans-serif;
+}
+
+.e{
+    text-align: center;
+    padding:15% 7%;
+    width:50%;
+    margin:0 auto;
+    color:#08fdd8;
+    font-style:'Prompt', sans-serif ;
+
+}
+.navbar-brand{
+    font-family:'Prompt', sans-serif;
+    color:#F1EDFF;
+    font-size: 1.5em;
+    font-weight: 650;
+}
+.navbar-brand:hover{
+    color:#F1EDFF;
+}
+.image{
+    margin-bottom: 4px;
+}
+
+.nav-link{
+    color:black;
+}
+
+.navbar{
+    padding:1% 2%;
+    background-color: #222831;
+}
+
+.navbar-nav{
+    margin-left: 50%;
+}
+
+.nav-item{
+   margin-left: 45px;
+   font-family: 'Open Sans Condensed',sans-serif;
+   font-weight: 400;
+   font-size: 1.3em;
+}
+
+
+
+.description {
+    font-weight: 400;
+    font-style:'Prompt', sans-serif ;
+    color:#789395;
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
+.nav-link:hover{
+    color:#5B5B5B;
+}
+.second{
+    background-color: #101016;
+    color:#C1C1CD;
+    padding:4% 7% 3%;
+}
+
+#footer{
+    width:100%;
+    margin:0px auto;
+  
+    font-weight: 100;
+    line-height: 1.5;;
+}
+
+.image-bottom{
+    margin-bottom: 10px;
+}
+
+.socials{
+    height:25px;
+    width:25px;
+    
+}
+.facebook{
+    margin-left: 35px;
+    margin-right: 35px;;
+}
+
+.copyright{
+    width: 100%;
+  
+    background-color: black;
+    margin-bottom: 0px;
+}
+h4{
+    font-size: 1em;
+    font-weight: 300;
+    padding:1%;
+    color:white;
+}
+.abtus{
+    background-color:white;
+    color:#060614;
+    justify-content: center;
+}
+
+.x{
+    padding-top: 7%;
+    font-family: 'Work Sans',sans-serif;
+    font-weight: bold;
+    font-size: 2.3rem;
+
+}
+.y{
+    padding:8% 10% 8% 6%;
+    text-align: left;
+}
+.z{
+    font-weight: 550;
+}
+hr{
+    border: solid 2px;
+    background:black;
+    opacity:1;
+    width:5%;
+   position: absolute;
+   margin-left: 3.7em;
+}
+.first{
+    font-size:2em;
+}
+.copy{
+    font-size: 16px;
+    font-weight:bold;
+}
+
+.row{
+padding:3% 1%;
+justify-content: center;
+}
+
+.boxes{
+width:375px;
+height:250px;
+
+margin:10px;
+margin-bottom: 10px;
+justify-content: center;
+align-items: center;
+}
+#content{
+    background-color: #222831;
+}
+
+.box1{
+    background-image: url(images/r-architecture-2gDwlIim3Uw-unsplash.jpg);
+    background-size:cover ;
+    opacity:0.5;
+    transition: transform 0.7s;
+    overflow: hidden;
+}
+
+.box3{
+    background-image: url(images/alexander-tsang-ppN1zRQrCEg-unsplash.jpg);
+    background-size:cover ;
+    opacity:0.5;
+    transition: transform 0.7s;
+    overflow: hidden;
+}
+
+.box4{
+    background-image: url(images/downloadagr.jfif);
+    background-size:cover ;
+    opacity:0.5;
+    transition: transform 0.7s;
+    overflow: hidden;
+}
+
+
+.boxes:hover{
+    opacity:1;
+    transform:scale(1.02);
+
+}
+
+.boxtext{
+color:white;
+margin-top: 95px;
+
+}
+.content-header{
+    color:#08fdd8;
+  padding-top: 80px;
+}
+.socials :hover{
+    color:#08fdd8;
+}
+.foot{
+    margin-bottom: 30px;
+}
